@@ -1,6 +1,6 @@
 ## Since 2019 in the IT world, technology enthusiast and everything that feeds my curiosity. 
 
-### I am studying the fourth semester of Information Systems, at Unochapecó, currently my focus of studies and knowledge are focused on programming in the languages ​​C/C++, Java and JS, but with a certain knowledge in infrastructure, with specific skills for AWS, Kubernetes, Docker, operating systems, among others. I am extroverted, proactive, curious and very hardworking, always looking to develop myself as a person and professional. I am currently focusing on my studies on Javascript.
+### I am studying the fifth semester of Information Systems, at Unochapecó, currently my focus of studies and knowledge are focused on programming in the languages ​​C/C++, Java and JS, but with a certain knowledge in infrastructure, with specific skills for AWS, Kubernetes, Docker, operating systems, among others. I am extroverted, proactive, curious and very hardworking, always looking to develop myself as a person and professional. I am currently focusing on my studies on Javascript.
 
 
 ### Knowledge
