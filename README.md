@@ -1,6 +1,6 @@
 ## Since 2019 in the IT world, technology enthusiast and everything that feeds my curiosity. 
 
-### I am studying the fifth semester of Information Systems, at Unochapecó, currently my focus of studies and knowledge are focused on programming in the languages ​​C/C++, Java and JS, but with a certain knowledge in infrastructure, with specific skills for AWS, Kubernetes, Docker, operating systems, among others. I am extroverted, proactive, curious and very hardworking, always looking to develop myself as a person and professional. I am currently focusing on my studies on Javascript.
+### I am studying the fifth semester of Information Systems, at Unochapecó, currently my focus of studies and knowledge are focused on programming in the languages ​​C/C++, Kotlin and JS, but with a certain knowledge in infrastructure, with specific skills for Docker, operating systems, among others. I am extroverted, proactive, curious and very hardworking, always looking to develop myself as a person and professional. I am currently focusing on my studies on Javascript.
 
 
 ### Knowledge
@@ -9,9 +9,7 @@
   <img align="center" alt="Eduardo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Eduardo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Eduardp-Cpp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg">
-  <img align="center" alt="Eduardo-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain-wordmark.svg">
   <img align="center" alt="Eduardo-Mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-plain-wordmark.svg">
-  <img align="center" alt="Eduardo-Sqlserver" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg"> 
 </div>
   
   ##
