@@ -1,6 +1,6 @@
 ## Since 2019 in the IT world, technology enthusiast and everything that feeds my curiosity. 
 
-### I am studying the fifth semester of Information Systems, at Unochapecó, currently my focus of studies and knowledge are focused on programming in the languages ​​C/C++, Kotlin and JS, but with a certain knowledge in infrastructure, with specific skills for Docker, operating systems, among others. I am extroverted, proactive, curious and very hardworking, always looking to develop myself as a person and professional. I am currently focusing on my studies on Javascript.
+### I am studying the last semester of Information Systems, at Unochapecó, currently my focus of studies and knowledge are focused on data science, machine learning, computer vision, mobile development with Kotlin and React Native and web development, with React. I am extroverted, proactive, curious and very hardworking, always looking to develop myself as a person and professional.
 
 
 ### Knowledge
